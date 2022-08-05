@@ -1,0 +1,159 @@
+.title {
+     color:white;
+     font-size: 35px;
+     font-weight: 700;
+     text-align: center;
+     margin-top: 100px;
+     margin-bottom: 70px;
+     font-family: 'Comfortaa', cursive;
+}
+.box1 {
+    background-color: hwb(38 67% 24%);
+    height: 300px;
+
+}
+.box11 {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+}
+.box111 {
+    width: 600px;   
+}
+.navigation {
+    display: inline-block;
+    font-size: 12px;
+    margin: 10px;
+    font-family: 'Comfortaa', cursive;
+}
+.box2 {
+    height: 570px;
+}
+.text {
+    font-size:13px;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: 400;
+    font-family: 'Comfortaa', cursive;
+}
+.photo {
+    width: 800px;
+    height: 450px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    background-image: url("photo/my\ photo.jpg");
+    background-position: center;
+    border-radius: 10px;
+}
+.box3 {
+    height: 250px;
+    background-color: hwb(37 71% 15% / 0.219);
+    margin-left: auto;
+    padding: 10px 10px 10px 10px;
+}
+.box33 {
+    width: 600px;
+    height: 250px;
+    margin:auto;
+ }
+.box333 {
+    width: 600px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.title1 {
+    color: black;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Comfortaa', cursive;
+}
+.skills {
+    background-color: rgb(135, 179, 135);
+    border-radius: 30px;
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
+    padding: 12px 7px 12px 7px;
+    font-size: 13px;
+    font-family: 'Comfortaa', cursive;
+}
+.box4 {
+    height: 200px;
+    background-color: rgb(231, 218, 242);
+    padding: 10px 10px 10px 10px;
+}
+.box44 {
+    width: 600px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.box444 {
+    width: 130px;
+    display: inline-block;
+    margin-left:100px;
+    margin-bottom:100px;
+}
+.strenghts {
+    font-size: 12px;
+    font-family: 'Comfortaa', cursive;
+    padding: 5px 5px 5px 5px;
+    margin: auto;
+}
+.box5 {
+    height: 350px;
+    padding: 10px 10px 10px 10px;
+}
+.box55 {
+    width: 800px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box555 {
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+    background-color: hwb(38 67% 24%);
+    margin: 30px 55px 10px 55px;
+}
+.project {
+    display: inline-block;
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    font-size: 12px;
+}
+.box6 {
+    height: 200px;
+    background-color:hwb(38 67% 24%);
+    padding: 10px 10px 10px 10px;
+}
+.box66 {
+    height: 180px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contacts {
+    padding: 7px 7px 7px 7px;
+    font-family: 'Comfortaa', cursive;
+    font-size: 12px;
+}
+.box666 {
+    width: 150px;
+    height: 100px;
+}
+.telegram-logo {
+    width: 30px;
+    height: 30px;
+    padding: 7px 7px 7px 7px;
+}
