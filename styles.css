@@ -30,6 +30,11 @@
 .box2 {
     height: 570px;
 }
+.box22 {
+    margin-left:auto;
+    margin-right: auto;
+    width: 800px;
+}
 .text {
     font-size:13px;
     font-style: italic;
@@ -41,13 +46,9 @@
 .photo {
     width: 800px;
     height: 450px;
-    margin-top: 10px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 10px;
-    background-image: url("photo/my\ photo.jpg");
-    background-position: center;
+    object-fit: cover;
     border-radius: 10px;
+    margin-top: 10px;
 }
 .box3 {
     height: 250px;
